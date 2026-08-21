@@ -1673,7 +1673,7 @@ if page=="📝Quick Prediction":
                             for row in missing_rows:
         
                                 issues.append({
-                                    "Row": row + 2,
+                                    "Row": row + 1,
                                     "Column": col,
                                     "Issue": "Missing value"})
          for row in edited_df.index:
