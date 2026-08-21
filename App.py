@@ -70,7 +70,7 @@ if "prediction_source" not in st.session_state:
 #SIDEBAR
 
 with st.sidebar:
-     st.image("PredictCare_logo2.png",width=300)
+     st.image("PredictCare_logo.png",width=300)
      page = st.radio(
           "Navigation",
           ["🏠Dashboard","👤Single Patient","📊Batch Upload","📝Quick Prediction","📈Model Insights","ℹ️About PredictCare"]
