@@ -86,7 +86,7 @@ Models were evaluated using:
 ## 📂 Repository Structure
 
 ```text
-PredictCare-AI-No-Show-Prediction/
+PredictCare-Hospital_Appointment_Risk_and_Intervention_System/
 │
 ├── Final_Project.ipynb
 ├── App.py
@@ -96,10 +96,14 @@ PredictCare-AI-No-Show-Prediction/
 ├── predictcare_model.pkl
 ├── requirements.txt
 ├── README.md
+├── hospital_appointments_cleaned.csv
+├── runtime.txt
+├── PredictCare_CSV_Template.csv
+├── PredictCare_header.png
+├── PredictCare_logo,png
 │
-└── images/
-    ├── logo.png
-    └── header.png
+└── .streamlit/
+    ├── config.toml
 ```
 
 ## 🧠 Features Used
@@ -147,10 +151,3 @@ The `Final_Project.ipynb` notebook contains the main machine learning workflow, 
 PredictCare is an **educational machine learning project** and is not intended to replace medical professionals or make clinical decisions.
 
 The predictions demonstrate how machine learning can be applied to hospital appointment management and no-show risk analysis.
-
-## 👩‍💻 Project
-
-**PredictCare – AI No-Show Prediction**
-
-An educational project demonstrating the application of machine learning, data preprocessing, feature engineering, model evaluation, threshold tuning, and Streamlit deployment to a real-world healthcare-related problem.
-
