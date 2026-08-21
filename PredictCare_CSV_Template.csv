@@ -1,0 +1,6 @@
+PatientID,AppointmentID,Gender,Age,Neighbourhood,Scholarship,Hypertension,Diabetes,Alcoholism,Handicap,SMS_received,ScheduledDay,AppointmentDay,PreviousAppointments,PreviousNoShows
+P001,A001,Female,45,JARDIM DA PENHA,No,No,No,No,No,Yes,5/4/2016 10:30,5/10/2016,5,2
+P002,A002,Male,62,SANTO ANTONIO,No,Yes,Yes,No,No,No,5/5/2016 9:15,5/5/2016,3,0
+P003,A003,Female,29,RESISTENCIA,Yes,No,No,No,No,Yes,5/10/2016 14:00,5/20/2016,2,1
+P004,A004,Male,71,TABUAZEIRO,No,Yes,No,Yes,No,Yes,5/12/2016 8:45,5/25/2016,8,4
+P005,A005,Female,38,SANTO ANTONIO,No,No,No,No,No,No,5/18/2016 11:20,5/18/2016,4,1
