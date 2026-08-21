@@ -70,8 +70,6 @@ Models were evaluated using:
 * ROC-AUC
 * Confusion Matrix
 
-The final model achieved approximately **80% accuracy** and a **ROC-AUC of around 0.75** during evaluation.
-
 ## 🛠️ Technology Stack
 
 * Python
